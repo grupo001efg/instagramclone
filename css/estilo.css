@@ -31,3 +31,7 @@ body {
     justify-content: center;
     width: 50%;
 }
+
+.instagram-tela img {
+    height: 50rem;
+}
