@@ -71,3 +71,19 @@ body {
     border-radius: 40%;
     overflow: hidden;
 }
+
+.perfil img {
+    height: 6rem;
+}
+
+.instagram-perfil {
+    background-color: aqua;
+    color: antiquewhite;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.instagram-logout {
+    color: aqua;
+    margin-top: 1rem;
+}
