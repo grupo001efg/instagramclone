@@ -132,10 +132,10 @@ body {
     }
 
     .instagram-wrapper {
-        width: 90px;
+        width: 90%;
     }
 
-    .instragram-tela {
+    .instragram-tela{
         display: none;
     }
 
@@ -144,6 +144,6 @@ body {
     }
 
     .grupo {
-        border: 1px solid transparent
+        border: 1px solid transparent;
     }
 }
