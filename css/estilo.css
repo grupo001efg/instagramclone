@@ -118,3 +118,32 @@ body {
 .app-download:nth-child(2) {
     background-image: url('../img/apple.png');
 }
+
+/* MEDIA QUERIES */
+@media (max-width: 1024px) {
+    .instagram-wrapper {
+        width: 90%;
+    }
+}
+
+@media (max-width: 650px){
+    body {
+        background-color: #fff;
+    }
+
+    .instagram-wrapper {
+        width: 90px;
+    }
+
+    .instragram-tela{
+        display: none;
+    }
+
+    .instagram-login {
+        width: 100%;
+    }
+
+    .grupo {
+        border: 1px solid transparent
+    }
+}
